@@ -1,2 +1,11 @@
-# react-portfolio
-A personal portfolio application to showcase my project and learning react!
+# This a react portfolio template
+
+## Technologies
+
+### React.js, Tailwind CSS
+
+## To start run the project, follow these commands
+
+- First clone the project from github
+- run `npm install`
+- run `npm start`
